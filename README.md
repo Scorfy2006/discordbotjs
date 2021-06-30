@@ -4,7 +4,7 @@
 # Simple Example
 
 ```
-var Bot = require('discord-bot');
+var Bot = require('discordbotjs');
 
 var bot = new Bot({
     token: 'Your super secret Token in there'
